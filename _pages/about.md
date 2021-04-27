@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hello, I'm Satyak.
+Hello, I'm SATYAK.
 
 
 
